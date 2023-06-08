@@ -145,6 +145,8 @@ blaise()
 
 # The factorial of a number n is the product of all positive integers from 1 to n.
 
+# this is the recursive procedure
+
 
 def calculate_factorial(n):
 
@@ -155,3 +157,5 @@ def calculate_factorial(n):
 
 
 print(calculate_factorial(3))
+
+# use an iterative procedure like a loop to solve this
